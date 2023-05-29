@@ -37,7 +37,9 @@ Additionally, there is a compile and runtime dependency on
 
 On a Debian/Ubuntu style system, you should be able to prepare for building
 by running:
-
+    
+    go lang 需要使用 1.19 版本，ubuntu使用的版本是 1.18。
+    
     apt-get install golang
     apt-get install libnl-3-dev libnl-genl-3-dev
 
